@@ -1,0 +1,9 @@
+{
+  "window_s": 1.5,
+  "hop_s": 0.5,
+  "min_prob": 0.75,
+  "gap_merge_s": 0.5,
+  "presence_merge_gap": 1.0,
+  "min_rms_quantile": 0.2,
+  "mean_iou_presence": 0.036841387765566426
+}
